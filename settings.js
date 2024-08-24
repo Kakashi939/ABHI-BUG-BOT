@@ -2,14 +2,14 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "919074692450"
-global.ownername = "Abhishek Suresh"
+global.ownernomer = "22367542669"
+global.ownername = "Karma"
 global.ytname = "YT: Comedy Melody CH"
 global.socialm = "GitHub: DGXeon"
 global.location = "India, Kerala, Idukki"
 
-global.ownernumber = '919074692450'  //creator number
-global.ownername = 'Abhishek Suresh' //owner name
+global.ownernumber = '22367542669'  //creator number
+global.ownername = 'Karma' //owner name
 global.botname = '𝙰𝙱𝙷𝙸-𝙱𝚄𝙶-𝙱𝙾𝚃' //name of the bot
 
 //sticker details
@@ -17,7 +17,7 @@ global.packname = '🎯𝙰𝙱𝙷𝙸-𝙱𝚄𝙶-𝙱𝙾𝚃'
 global.author = '𝙰𝙱𝙷𝙸𝚂𝙷𝙴𝙺 𝚂𝚄𝚁𝙴𝚂𝙷🍀'
 
 //console view/theme
-global.themeemoji = '🎯'
+global.themeemoji = '💔'
 global.wm = "©𝙰𝙱𝙷𝙸-𝙱𝚄𝙶-𝙱𝙾𝚃"
 
 //theme link
@@ -48,7 +48,7 @@ global.mess = {
     prem: 'This feature can be used by premium user only',
     admin: 'This feature can be used by admin only',
     botAdmin: 'This feature can only be used when the bot is a group admin ',
-    owner: 'This feature can be used by owner only',
+    owner: 'Chien this feature can be used by owner only',
     group: 'This feature is only for groups',
     private: 'This feature is only for private chats',
     wait: 'Please Wait',    
